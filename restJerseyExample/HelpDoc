@@ -1,0 +1,6 @@
+Rest Jersey maven based example
+
+END Point Url:-
+==============
+
+http://localhost:8080/restJerseyExample/rs/simple/get?whereRequest=charan,nani&selectRequest=id,ename
