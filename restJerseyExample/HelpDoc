@@ -4,3 +4,8 @@ END Point Url:-
 ==============
 
 http://localhost:8080/restJerseyExample/rs/simple/get?whereRequest=charan,nani&selectRequest=id,ename
+
+Response:-
+========
+
+select id,ename from Employee Where id=charan and id=nani
